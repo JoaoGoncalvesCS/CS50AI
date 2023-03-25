@@ -1,2 +1,4 @@
-# CS50AI
-Projects from Harvard's CS50AI course for every week lesson.
+# cs50x
+Harvard's CS50AI course projects
+
+This repository contains the CS50AI's Projects from all the weeks during the course.
